@@ -1,0 +1,12 @@
+D:\TRIALS\Ray tracer\bin\Debug\template.exe.config
+D:\TRIALS\Ray tracer\bin\Debug\template.exe
+D:\TRIALS\Ray tracer\bin\Debug\template.pdb
+D:\TRIALS\Ray tracer\bin\Debug\OpenTK.dll
+D:\TRIALS\Ray tracer\bin\Debug\OpenTK.dll.config
+D:\TRIALS\Ray tracer\obj\Debug\template.csproj.AssemblyReference.cache
+D:\TRIALS\Ray tracer\obj\Debug\template.csproj.CoreCompileInputs.cache
+D:\TRIALS\Ray tracer\obj\Debug\template.csproj.CopyComplete
+D:\TRIALS\Ray tracer\obj\Debug\template.exe
+D:\TRIALS\Ray tracer\obj\Debug\template.pdb
+D:\TRIALS\Ray tracer\bin\Debug\System.ValueTuple.dll
+D:\TRIALS\Ray tracer\bin\Debug\System.ValueTuple.xml
