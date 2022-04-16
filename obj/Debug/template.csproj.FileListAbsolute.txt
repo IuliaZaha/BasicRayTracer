@@ -10,3 +10,15 @@ D:\TRIALS\Ray tracer\obj\Debug\template.exe
 D:\TRIALS\Ray tracer\obj\Debug\template.pdb
 D:\TRIALS\Ray tracer\bin\Debug\System.ValueTuple.dll
 D:\TRIALS\Ray tracer\bin\Debug\System.ValueTuple.xml
+D:\TRIALS\BasicRayTracer\BasicRayTracer\bin\Debug\template.exe.config
+D:\TRIALS\BasicRayTracer\BasicRayTracer\bin\Debug\template.exe
+D:\TRIALS\BasicRayTracer\BasicRayTracer\bin\Debug\template.pdb
+D:\TRIALS\BasicRayTracer\BasicRayTracer\bin\Debug\OpenTK.dll
+D:\TRIALS\BasicRayTracer\BasicRayTracer\bin\Debug\System.ValueTuple.dll
+D:\TRIALS\BasicRayTracer\BasicRayTracer\bin\Debug\OpenTK.dll.config
+D:\TRIALS\BasicRayTracer\BasicRayTracer\bin\Debug\System.ValueTuple.xml
+D:\TRIALS\BasicRayTracer\BasicRayTracer\obj\Debug\template.csproj.AssemblyReference.cache
+D:\TRIALS\BasicRayTracer\BasicRayTracer\obj\Debug\template.csproj.CoreCompileInputs.cache
+D:\TRIALS\BasicRayTracer\BasicRayTracer\obj\Debug\template.csproj.CopyComplete
+D:\TRIALS\BasicRayTracer\BasicRayTracer\obj\Debug\template.exe
+D:\TRIALS\BasicRayTracer\BasicRayTracer\obj\Debug\template.pdb

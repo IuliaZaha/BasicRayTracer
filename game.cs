@@ -74,7 +74,7 @@ class Game{
 			world.renderableObjects.Add(new Sphere(new Vector3(-7f, 1f, 2f), 0.3f, new Material(new Shader(Vector3.One), 0f, 1f, 2.2f, new Vector3(1f, 1f, 1f))));
 
 			//LoadOBJ(Directory.GetCurrentDirectory() + @"\..\..\instruments\cellotr.obj", new Vector3(0f, 0f, -300f), 1.3f, new Material(new Shader(Vector3.One), 0f, 1f, 1.52f, new Vector3(1f, 1f, 0.8f) * 1.3f));
-			LoadOBJ(Directory.GetCurrentDirectory() + @"\..\..\instruments\piano06.obj", new Vector3(0f, 0f, -300f), 1.3f, new Material(new Shader(Vector3.One), 0f, 1f, 1.52f, new Vector3(1f, 1f, 0.8f) * 1.3f));
+			//LoadOBJ(Directory.GetCurrentDirectory() + @"\..\..\instruments\piano06.obj", new Vector3(0f, 0f, -300f), 1.3f, new Material(new Shader(Vector3.One), 0f, 1f, 1.52f, new Vector3(1f, 1f, 0.8f) * 1.3f));
 
 			world.renderableObjects.Add(new Triangle(new Vector3(-1000f, 0f, -1000f), new Vector3(-1000f, 0f, 1000f), new Vector3(1000f, 0f, -1000f), new Vector3(0f, 1f, 0f), new Material(new Checkerboard(new Vector3(1, 1, 1), new Vector3(0.5f, 0.5f, 0.5f)), 0.1f)));
 			world.renderableObjects.Add(new Triangle(new Vector3(1000f, 0f, -1000f), new Vector3(-1000f, 0f, 1000f), new Vector3(1000f, 0f, 1000f), new Vector3(0f, 1f, 0f), new Material(new Checkerboard(new Vector3(1, 1, 1), new Vector3(0.5f, 0.5f, 0.5f)), 0.1f)));
